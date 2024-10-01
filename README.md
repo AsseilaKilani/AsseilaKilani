@@ -1,6 +1,6 @@
 Hi there 👋
 
-
+Etudiant en BUT informatique à Lens, je recherche un contrat d'apprentissage à partir de janvier 2025. J'ai travaillé sur un projet de site statique en groupe de 3 dans le cadre d'un projet de cours. A côté de cela, je travaille sur mon portfolio, un site de vente et un site de menu pour une pizzeria. Je travaille principalement sur le web avec du html/css/js et je me forme aux frameworks bootstrap et react à coté de mes études.
 
 <!--
 **AsseilaKilani/AsseilaKilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

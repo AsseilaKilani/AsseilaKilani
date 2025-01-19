@@ -7,7 +7,7 @@
 ### 🌐 Développement Web  
 - Frontend : **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **React**  
 - Backend : **PHP**, initiation aux frameworks modernes  
-- Projets : 🌟 **Portfolio personnel** (en cours), 🛒 **Site de vente en ligne**, 🍕 **Site de menu pour une pizzeria**, 📚 **Site statique en groupe** dans le cadre d’un projet universitaire  
+- Projets : 🌟 **Portfolio personnel** , 🛒 **Site de vente en ligne**(en cours), 🍕 **Site de menu pour une pizzeria**(en cours), 📚 **Site statique en groupe** dans le cadre d’un projet universitaire  
 
 ### 🖥️ Développement d'applications  
 - Autant passionné par le **frontend** que par le **backend**

@@ -1,29 +1,27 @@
 # 👋 Hello, moi c'est **Asseila Kilani**
 
-👨‍💻 Étudiant en 2ème année de **BUT Informatique** à Lens, originaire de Douai, passionné par le **développement web** et les **nouvelles technologies**. 🎯 **Actuellement à la recherche d’un contrat d’apprentissage** en développement web ou application à partir de **janvier 2025**.
+👨‍💻 Étudiant en "ème année de **BUT Informatique** à Lens, originaire de Douai, passionné par le **DevOps**. 🎯 **Actuellement à la recherche d’un stage** DevOps à partir du **16 mars 2026**.
 
 ## 🛠️ Ce que je fais
 
 ### 🌐 Développement Web  
-- Frontend : **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **React**  
-- Backend : **PHP**, initiation aux frameworks modernes  
-- Projets : 🌟 **Portfolio personnel** , 🛒 **Site de vente en ligne**(en cours), 🍕 **Site de menu pour une pizzeria**(en cours), 📚 **Site statique en groupe** dans le cadre d’un projet universitaire  
+- Frontend : **HTML**, **CSS**, **JavaScript**, **Angular**, **React**  
+- Backend : **PHP**, **Flask**,**Laravel**
+- Projets : 🌟 **Portfolio personnel** , 🛒 **Site de vente en ligne**(en cours), 🍕 **Site de menu pour une pizzeria**(en cours), 📚 **Site statique en groupe** dans le cadre d’un projet
+- DevOps : **Docker**, **Linux**, **Git**, **CI/CD**, **Nomad**  
+universitaire  
 
-### 🖥️ Développement d'applications  
-- Autant passionné par le **frontend** que par le **backend**
-
-## 🧠 Ce que j’apprends  
-🚀 Frameworks modernes comme **React** et **Bootstrap**  
-📈 Approfondissement des compétences en **PHP** et en développement backend  
+### 🖥️ DevOps 
+- Passionné par l'**intégration Continue et le déploiment** ainsi que l'**isolation des applications**
 
 ## 🏋️ Mes passions  
 ⚽ **Sports** : Fan de **football**, **sports de combat**, et pratiquant de **musculation**  
 🎮 Tech & dev : Toujours curieux d’apprendre de nouvelles technologies et d'explorer le monde de la programmation  
 
 ## 🔍 Ce que je recherche  
-📅 **Alternance dès janvier 2025**  
-🌟 Dans le domaine du **développement web** ou du **développement d’applications**  
-💡 Des projets mêlant **frontend** et **backend**
+📅 **Stage dès le 16 mars 2026 pour 12 semaines**  
+🌟 Dans le domaine du **DevOps**  
+
 
 ## 📫 Contact  
 💼 **LinkedIn** : (https://www.linkedin.com/in/kilani-asseila-209ab12a4) 
